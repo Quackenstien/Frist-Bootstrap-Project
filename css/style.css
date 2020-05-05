@@ -11,3 +11,19 @@
   margin-top: auto;
   margin-bottom: 5px;
 }
+
+.img-container {
+  position: relative;
+}
+
+.bx {
+  background-color: #17a2b8;
+  padding-bottom: 20px;
+  padding-left: 15;
+  padding-right: 15;
+  text-align: center;
+  color: white;
+  height: 50px;
+  width: 100%;
+  /* position: absolute; */
+}
