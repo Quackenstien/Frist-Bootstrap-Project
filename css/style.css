@@ -1,1 +1,13 @@
+.ftr {
+  position: fixed;
+  bottom: 0;
+}
 
+.ftr2 {
+  border-top: 5px solid #17a2b8;
+}
+
+.copyright {
+  margin-top: auto;
+  margin-bottom: 5px;
+}
